@@ -1,0 +1,3 @@
+USAGE:
+
+babel-node build-stat.js
